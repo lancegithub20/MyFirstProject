@@ -11,6 +11,5 @@ class MainActivity : AppCompatActivity() {
         println("New code")
         println("New code")
         println("New code2")
-
     }
 }
